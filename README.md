@@ -1,6 +1,8 @@
 # biglasso
 Fit lasso penalized regression path for big data Use biglasso With (In) R Software
 
+https://www.youtube.com/watch?v=pZYyeFZOC9Q
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
